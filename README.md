@@ -1,13 +1,3 @@
-# Android Libraries
-
-- ActionBarSherlock 4.3.1
-- Volley 1.0
-- ViewPagerIndicator 2.4.1
-- SlidingMenu 1.3
-- HoloEverywhere (also with preferences and slider addon) 1.6.8
-- Roboguice 2.1
-- Crouton 1.8.1
-
 # How to use
 
 Simply add the repository to your build.gradle file:
